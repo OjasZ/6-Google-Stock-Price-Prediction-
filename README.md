@@ -1,4 +1,4 @@
-Predicting Google’s Stock Price with LSTM Model
+                                      Predicting Google’s Stock Price with LSTM Model
 
 
 Abstract 
